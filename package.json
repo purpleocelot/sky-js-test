@@ -1,0 +1,20 @@
+{
+  "name": "sky-javascript-test",
+  "version": "1.0.0",
+  "description": "Sky Unattended JS Test",
+  "main": "redeemService.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "Sky",
+    "Javascript",
+    "Test"
+  ],
+  "author": "David Lawton",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.3.1",
+    "requirejs": "^2.3.6"
+  }
+}
